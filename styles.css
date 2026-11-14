@@ -996,7 +996,7 @@ button:focus-visible,a:focus-visible{
 }
 .hero{
   background-color:#17395c;
-  background-image:linear-gradient(90deg,rgba(16,35,53,.78) 0%,rgba(16,35,53,.43) 52%,rgba(16,35,53,.3) 100%),url("img/fondo.jpg");
+  background-image:linear-gradient(90deg,rgba(16,35,53,.78) 0%,rgba(16,35,53,.43) 52%,rgba(16,35,53,.3) 100%),url("fondo.jpg");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
